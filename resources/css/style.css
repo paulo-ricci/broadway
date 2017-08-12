@@ -1,4 +1,7 @@
-body {text-align: center;}
+body {text-align: center;background-color: white;}
 h1 {font-family: Helvetica;font-size: 70px;font-weight: bold;color:white;}
 nav a {font-family: Helvetica; font-size: 18px; color:white;}
-.header {background-image: url("../images/the-flatiron-building.png");background-repeat: no-repeat;background-position: center;}
+.header {color: white;background-image: url("../images/the-flatiron-building.png");background-repeat: no-repeat;background-position: center;}
+h3 {font-family: helvetica; font-size: 32px; font-weight: bold;}
+h2 {font-family: helvetica; font-size: 23px; font-weight: bold;}
+p {font-family: helvetica; font-size: 14px;}
